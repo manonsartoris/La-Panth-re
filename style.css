@@ -438,11 +438,14 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 20px;
 }
 
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .btn {
@@ -660,6 +663,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    font-weight: bold;
 }
 
 .hero-bloc-text-sub {
@@ -705,11 +709,6 @@ p {
 
 }
 
-.rsocial {
-    color: #FFFFFF;
-    font-size: 15px;
-}
-
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -743,6 +742,8 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: bold;
+    font-size: 12px;
 }
 
 .portfolio-thumb {
@@ -787,6 +788,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1045,4 +1047,25 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.contact{
+    font-size: 20px;
+}
+
+.texte{
+    font-size: 15px;
+}
+
+.bold {
+    font-weight: bold;
+    color: #FFF;
+}
+
+.lien{
+    font-size: 15px;
+}
+
+.lien-footer{
+    margin: 5px;
 }
