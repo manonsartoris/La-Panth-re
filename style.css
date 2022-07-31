@@ -702,6 +702,12 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+
+}
+
+.rsocial {
+    color: #FFFFFF;
+    font-size: 15px;
 }
 
 h2 {
