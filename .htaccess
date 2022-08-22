@@ -1,0 +1,7 @@
+## EXPIRES CACHING ##
+ <IfModule mod_expires.c>
+ ExpiresActive On
+ ExpiresByType img/wbp "access plus 1 year"
+ ExpiresDefault "access plus 7 days"
+ </IfModule>
+ ## EXPIRES CACHING ##
